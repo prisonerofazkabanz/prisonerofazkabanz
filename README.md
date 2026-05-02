@@ -23,3 +23,20 @@ Claude produces structured HTML analysis, injects it into the live page via comm
 
 ### ⚙️ How the pipelines work
 
+
+Both pipelines share a single `requirements.txt` and one `ANTHROPIC_API_KEY` secret.  
+Neither requires a database, server, or any paid hosting beyond the Anthropic API.
+
+---
+
+### 🛠 Stack
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Opus%204-8A2BE2)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-222?logo=github)
+![HTML](https://img.shields.io/badge/HTML%2FJS-vanilla-E34F26?logo=html5&logoColor=white)
+
+---
+
+*All analysis is AI-generated from public RSS sources. Updated automatically.*
